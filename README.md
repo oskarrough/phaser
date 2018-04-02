@@ -2,6 +2,7 @@ This repo contains the results of following http://phaser.io/tutorials/making-yo
 
 More things to explore
 
+https://photonstorm.github.io/phaser3-docs/index.html
 https://github.com/photonstorm/phaser3-examples
 http://labs.phaser.io/index.html?dir=
 http://phaser.io/news/2017/12/isometric-worlds-and-real-time-games
